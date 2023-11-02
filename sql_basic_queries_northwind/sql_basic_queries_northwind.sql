@@ -1,6 +1,8 @@
 select * from products
 
+
 SELECT product_name, quantity_per_unit FROM products
+
 
 SELECT Product_ID, Product_Name FROM Products WHERE Discontinued = 1
 
