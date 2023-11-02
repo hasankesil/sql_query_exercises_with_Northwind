@@ -1,6 +1,6 @@
 select * from products
 
-
+-- Write a query to retrieve Product names (ProductName) and quantity per unit (QuantityPerUnit).
 SELECT product_name, quantity_per_unit FROM products
 
 
